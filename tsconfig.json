@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",          // ここが重要
+    "target": "ES2020",
+    "moduleResolution": "bundler",
+    "outDir": "build",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
